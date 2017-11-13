@@ -38,9 +38,14 @@
   <ItemGroup>
     <Compile Include="MazeRunner.cs" />
     <Compile Include="HardAttribute.cs" />
+    <Compile Include="NinetyNineBottles\LiricsTests.cs" />
+    <Compile Include="NinetyNineBottles\Lirics.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NinetyNineBottles\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
