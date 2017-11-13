@@ -40,6 +40,8 @@
     <Compile Include="HardAttribute.cs" />
     <Compile Include="NinetyNineBottles\LiricsTests.cs" />
     <Compile Include="NinetyNineBottles\Lirics.cs" />
+    <Compile Include="NumberReversal.cs" />
+    <Compile Include="MediumAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
