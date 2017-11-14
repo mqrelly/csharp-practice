@@ -42,6 +42,8 @@
     <Compile Include="NinetyNineBottles\Lirics.cs" />
     <Compile Include="NumberReversal.cs" />
     <Compile Include="MediumAttribute.cs" />
+    <Compile Include="Palindroms.cs" />
+    <Compile Include="EasyAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
