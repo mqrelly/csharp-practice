@@ -12,6 +12,22 @@ Some of the challenges are making the code compile. These are always in
 separate projects.
 
 
+Table of Challenges
+-------------------
+
+- Easy
+  - Is a string palindrom? (Palindroms.cs)
+
+- Medium
+  - Find the longest non-trivial palindrom in a string (Palindroms.cs)
+  - Reverse the digits in a given natural number (NumberReversal.cs)
+
+- Hard
+  - Determine if a maze is solvable or not (MazeRunner.cs)
+  - Generate the lirics of the song '99 bottles of beer' (NinetyNineBottles/*.cs)
+
+
+
 Credit & License
 ----------------
 
